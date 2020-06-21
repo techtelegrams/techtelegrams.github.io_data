@@ -111,7 +111,7 @@ defaults:
 analytics:
   provider: google-gtag
   google:
-    tracking_id: UA-169913870-1
+    tracking_id: UA-170112886-1
 
 category_archive:
   type: liquid
