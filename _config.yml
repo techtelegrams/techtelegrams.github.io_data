@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tech Telegrams
-email: akarmegam.blr@gmail.com
+email: techtelegrams@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Latest Tech news from around the world
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -66,6 +66,9 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - README.md
+  - build.sh
 
 author:
   name   : "Tech Telegrams"
@@ -83,7 +86,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/TechTelegrams"
 
 defaults:
   # _posts
