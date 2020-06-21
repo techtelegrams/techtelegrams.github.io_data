@@ -1,6 +1,7 @@
 ---
 title:  "Motorola One Fusion Plus in India"
 date:   2020-06-17 00:20:00 +0530
+author: Ashok Karmegam
 categories:
     - MobilePhone
 tags:
@@ -38,7 +39,7 @@ available for sale from June 24th 2020 on Flipkart.
 - OS: My UX on top of Android 10
 
 ## Review
-Motorola One Fusion Plus looks bulgier with 9.6 mm, that is mainly because
+Motorola One Fusion Plus looks bulkier with 9.6 mm, that is mainly because
 of accomodating 5000mAh battery in a 6.5 inch form factor. Build looks good
 but not metal body. Overall it is a tough competitor on midrange segment
 to Poco X2, Redmi Note 9 Max, Realme 6 Pro and Honor 9X Pro.
