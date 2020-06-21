@@ -1,6 +1,7 @@
 ---
 title:  "Mi Notebook 14 Launch in India"
 date:   2020-06-14 00:20:00 +0530
+author: Ashok Karmegam
 categories:
     - Laptop
 tags:

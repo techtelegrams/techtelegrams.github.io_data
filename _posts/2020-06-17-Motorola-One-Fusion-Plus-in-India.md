@@ -1,6 +1,7 @@
 ---
 title:  "Motorola One Fusion Plus in India"
 date:   2020-06-17 00:20:00 +0530
+author: Ashok Karmegam
 categories:
     - MobilePhone
 tags:
