@@ -72,7 +72,7 @@ exclude:
 
 author:
   name   : "Tech Telegrams"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/techtelegrams.jpg"
   bio    : "Latest Tech news"
   links:
       #- label: "Website"
