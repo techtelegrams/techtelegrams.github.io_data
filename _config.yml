@@ -19,13 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tech Telegrams
+subtitle: Latest Technology News
 email: techtelegrams@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Latest Tech news from around the world
+  Latest Technology News about Gadgets, Internet and Cloud.
+  #logo : "/assets/images/techtelegrams_logo.png"
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://techtelegrams.com"
+
 minimal_mistakes_skin: default
 search: true
+
 
 # Build settings
 markdown: kramdown
@@ -72,8 +77,8 @@ exclude:
 
 author:
   name   : "Tech Telegrams"
-  avatar : "/assets/images/techtelegrams.jpg"
-  bio    : "Latest Tech news"
+  #avatar : "/assets/images/techtelegrams_logo.png"
+  bio    : "Latest Technology news"
   links:
       #- label: "Website"
       #icon: "fas fa-fw fa-link"
