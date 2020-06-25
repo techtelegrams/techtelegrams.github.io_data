@@ -83,15 +83,21 @@ author:
       #- label: "Website"
       #icon: "fas fa-fw fa-link"
       #url: "https://"
-      #- label: "Twitter"
+      #- label: ""
       #icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
+      #url: "https://twitter.com/TechTelegrams"
+      #- label: ""
+      #icon: "fab fa-fw fa-google"
+      #url: "https://news.google.com/publications/CAAqBwgKMJe5mwsw28OzAw?hl=en-IN&gl=IN&ceid=IN:en"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TechTelegrams"
+    - label: "Google"
+      icon: "fab fa-fw fa-google"
+      url: "https://news.google.com/publications/CAAqBwgKMJe5mwsw28OzAw?hl=en-IN&gl=IN&ceid=IN:en"
 
 defaults:
   # _posts
